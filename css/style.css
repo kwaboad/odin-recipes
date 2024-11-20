@@ -1,0 +1,50 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rufina', serif;
+font-family: 'Lora', serif;
+font-family: 'Playfair Display', serif; */
+
+body {background: lightblue;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    line-height: 1.7;
+}
+
+p {color: 0000;
+    font-size: 18px;
+}
+
+a {color: #160e0e;
+text-decoration: none;}
+
+a:hover, a:focus {color: #595959;
+text-decoration: none;}
+
+li, ol {text-decoration: none; 
+    font-size: 18px;
+}
+h1 {text-align: center;}
+
+.recipes {text-align: center;
+    font-size: 16px;
+    color: #000 bold;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+img {display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.other {font-size: 16px;
+text-decoration: none;
+line-height: 1.7;
+}
